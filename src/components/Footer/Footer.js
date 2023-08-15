@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <section className={styles.footer}>
             <h2>We are waiting for you</h2>
-            <p>Please reply to this message approving your attendance</p>
+            <p>Grace us with your attendance plans – reply to this.</p>
         </section>
     );
 }
