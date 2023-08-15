@@ -16,6 +16,7 @@ const Location = () => {
 					
 					<div className="engagement-details margin-bottom">
 						<div className="w-detail right">
+							<img className={styles.image} src="https://img.freepik.com/free-icon/wedding-ring_318-659720.jpg?t=st=1692088444~exp=1692089044~hmac=93424f17623d84425d698ffd1ac7d6e19f2f97285cbcde2c1fb6fa60aa40d5af" alt={'placeholder'} />
 							<h4 className="title">Felice Restaurant</h4>
 							<p className={styles.location}>Bagrevand 111</p>
                             <p>Saturday, September 9th, 2023</p>

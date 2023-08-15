@@ -6,12 +6,12 @@ import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
 import styles from './Gallery.module.scss';
 
-import image1 from '../../images/galleryImages/1.jpeg';
-import image2 from '../../images/galleryImages/2.jpeg';
-import image3 from '../../images/galleryImages/3.jpeg';
-import image4 from '../../images/galleryImages/4.jpeg';
-import image5 from '../../images/galleryImages/5.jpeg';
-import image6 from '../../images/galleryImages/6.jpeg';
+import image1 from '../../images/gallery/1.jpeg';
+import image2 from '../../images/gallery/2.jpeg';
+import image3 from '../../images/gallery/3.jpeg';
+import image4 from '../../images/gallery/4.jpeg';
+import image5 from '../../images/gallery/5.jpeg';
+import image6 from '../../images/gallery/6.jpeg';
 
 
 const Gallery = () => {
