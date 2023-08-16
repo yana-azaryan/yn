@@ -20,7 +20,7 @@
         left: 0;
         right: 0; 
         z-index: -1;
-        background: rgba(0,0,0,.7);
+        background: rgba(0,0,0,.8);
     }
 }
 
@@ -49,28 +49,6 @@
     font: 600 22px monospace, monospace;
     animation: pulse 1s ease infinite;
 }
-	
-// .remainingtime .timeSec {
-//     position: relative;
-//     display: inline-block;
-//     margin: 0 20px;
-//     margin-bottom: 30px; 
-//     height: 120px;
-//     width: 120px;
-//     padding-top: 25px;
-//     border-radius: 100px;
-//     border: 1px solid #F14E95;
-//     color: #fff;
-//     background: rgba(241, 78, 149, 0.8);
-  
-//     animation: pulse 1s ease infinite;
-// }
-
-// .remainingtime .timeSec .title {
-//     font-size: 3em;
-//     line-height: 1;
-//     display: block;
-// }
 
 @keyframes pulse {
 	0% {
