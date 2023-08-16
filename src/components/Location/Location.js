@@ -11,7 +11,7 @@ const Location = () => {
 				<div className="col-sm-10">
 					
 					<div className="heading">
-						<h2 className="title">Ceremony Details</h2>
+						<h2 className="title">Location Details</h2>
 					</div>
 					
 					<div className="engagement-details margin-bottom">
@@ -20,7 +20,7 @@ const Location = () => {
 							<h4 className="title">Felice Restaurant</h4>
 							<p className={styles.location}>Bagrevand 111</p>
                             <p>Saturday, September 9th, 2023</p>
-							<p>Time: 7PM Onwards</p>
+							<p>Time: 18:30 Onwards</p>
 						
 							<div class="mapouter" className={styles.map}>
 								<div class="gmap_canvas">
