@@ -54,7 +54,7 @@ const CountDown = () => {
                 <div className={styles.row}>
                     <div className="col-sm-12">
                         <div className={styles.heading}>
-                            <h2 className={styles.title}>Don't miss it!</h2>
+                            <h2 className={styles.title}>Save the Date!</h2>
                         </div>
                     </div>
                     <div className="col-sm-2"></div>

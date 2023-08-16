@@ -1,5 +1,5 @@
 import React from 'react';
-import invitation from '../../images/invite.png';
+import invitation from '../../images/invitation.png';
 
 const Date = () => {
     return (
